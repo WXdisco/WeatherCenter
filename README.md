@@ -31,7 +31,7 @@
                 '--------------------------'
 </pre>
 
-# DCU Weather Center
+# WX Disco Weather Center
 
 #### Weather Center for IPS 4.4 is full featured weather application with NWS API
 
