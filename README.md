@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-GNUv3-blue.svg)](https://github.com/WXdisco/IPS-localWX/blob/master/LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-ff69b4.svg)](https://www.devcu.com/devcu-tracker/)
 [![Build](https://img.shields.io/badge/Build-Beta-yellow.svg)](https://www.devcu.com/devcu-tracker/)
-[![Status](https://img.shields.io/badge/Status-BVuild-critical.svg)](https://www.devcu.com/devcu-tracker/)
+[![Status](https://img.shields.io/badge/Status-Incomplete-critical.svg)](https://www.devcu.com/devcu-tracker/)
 [![Development](https://img.shields.io/badge/Development-Active-success.svg)](https://www.devcu.com/devcu-tracker/)
 [![Platform](https://img.shields.io/badge/Platform-IPS4.4.4+-blue.svg)](https://www.devcu.com/devcu-tracker/)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/WXdisco/WeatherCenter/master.svg)](https://www.devcu.com/devcu-tracker/)
@@ -33,7 +33,7 @@
 
 # DCU Weather Center
 
-#### Weather Center for IPS 4.4 is full featured weather application with API for NWS
+#### Weather Center for IPS 4.4 is full featured weather application with NWS API
 
 ## Features
 
