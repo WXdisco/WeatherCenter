@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Status-Incomplete-critical.svg)](https://www.devcu.com/devcu-tracker/)
 [![Development](https://img.shields.io/badge/Development-Active-success.svg)](https://www.devcu.com/devcu-tracker/)
 [![Platform](https://img.shields.io/badge/Platform-IPS4.4.4+-blue.svg)](https://www.devcu.com/devcu-tracker/)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/WXdisco/WeatherCenter/master.svg)](https://www.devcu.com/devcu-tracker/)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/WXdisco/WeatherCenter/edit/master.svg)](https://www.devcu.com/devcu-tracker/)
 
 ## ** Become a Patron/Supporter of devCU **
 	
